@@ -113,10 +113,12 @@ bool esPrimo(int num) {
 
 
 // COMIENZA EL PROGRAMA PRINCIPAL
-int main(int argc, char **argv) {
+int main(int tamanio_arreglo, char **argv) {
+
+
 
 // VARIABLES
-    int tamanio_arreglo,  cantPrimos=0, j=0;
+    int   cantPrimos=0, j=0;
     long long sumaPrimos= 0, sumaTotal = 0;
     double time_spent = 0.0;
 
@@ -125,8 +127,8 @@ int main(int argc, char **argv) {
 // CODIGO
 
 // SOLICITA AL USUARIO QUE INGRESE EL TAMAÑO DEL ARREGLO
-    printf("Ingrese la cantidad de elementos en el arreglo: ");
-    scanf("%d", &tamanio_arreglo);
+//    printf("Ingrese la cantidad de elementos en el arreglo: ");
+//    scanf("%d", &tamanio_arreglo);
 
 // EMPIEZA A CONTAR EL RELOJ
     clock_t begin = clock();

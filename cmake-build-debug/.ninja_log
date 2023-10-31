@@ -1,3 +1,10 @@
 # ninja log v5
-0	2521	7204828759106001	CMakeFiles/ProgramaSecuencial.dir/main.c.obj	403e371d3c6542da
-2523	2691	7204828760813804	ProgramaSecuencial.exe	490075091786f048
+3	93	7204836768163818	CMakeFiles/ProgramaSecuencial.dir/main.c.obj	403e371d3c6542da
+2	94	7204837355371400	ProgramaSecuencial.exe	8f006ee057f95ad6
+0	156	7204837736644486	build.ninja	b88383bdfaa38250
+1	166	7204837736644486	build.ninja	b88383bdfaa38250
+2	101	7204837738425000	ProgramaSecuencial.exe	350760f02ed2b9b4
+2	1250	7204848123065721	CMakeFiles/ProgramaSecuencial.dir/main.c.obj	403e371d3c6542da
+1251	1575	7204848126281174	ProgramaSecuencial.exe	350760f02ed2b9b4
+2	92	7204856272972639	CMakeFiles/ProgramaSecuencial.dir/main.c.obj	403e371d3c6542da
+92	196	7204856273970630	ProgramaSecuencial.exe	350760f02ed2b9b4
